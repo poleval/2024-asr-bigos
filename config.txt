@@ -1,0 +1,2 @@
+--metric WER:cm<\w\s>N<WER>
+--metric CER:cm<\w\s>N<CER>
