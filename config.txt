@@ -1,2 +1,2 @@
---metric WER:cm<[\w\sęóąśłżźć]+>N<WER>
---metric CER:cm<[\w\sęóąśłżźć]+>N<CER>
+--metric WER:cm<[\w\sęóąśłżźćńĘÓĄŚŁŻŹĆŃ]+>N<WER>
+--metric CER:cm<[\w\sęóąśłżźćńĘÓĄŚŁŻŹĆŃ]+>N<CER>
