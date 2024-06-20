@@ -103,13 +103,20 @@ lecą sandały i trepki i pasy wrzawa powszechna przeraża i głuszy zdrętwiał
 
 For each provided submission two measures of accuracy will be calculated:
 
-- **Word Error Rate** (WER) - number of incorrectly transcribed words divided by the total number of tokens in the reference sentences.
+-   **Word Error Rate** (WER) - number of incorrectly transcribed words
+    divided by the total number of tokens in the reference sentences.
 
-$$ \text{WER} = \frac{\text{number of errors}}{\text{reference text length in words}} $$
+![ \\text{WER} = \\frac{\\text{number of errors}}{\\text{reference text
+length in words}}
+](http://poleval.pl/task3/media/a21b8ce76d9bbb460a70e923f0a9e06159c75274.png " \text{WER} = \frac{\text{number of errors}}{\text{reference text length in words}} ")
 
-- **Character Error Rate** (CER) - number of inccorectly transcribed characters divided by the total number of characters in the reference sentences.
+-   **Character Error Rate** (CER) - number of inccorectly transcribed
+    characters divided by the total number of characters in the
+    reference sentences.
 
-$$ \text{CER} = \frac{\text{number of errors}}{\text{reference text length in characters}} $$
+![ \\text{CER} = \\frac{\\text{number of errors}}{\\text{reference text
+length in characters}}
+](http://poleval.pl/task3/media/b5fde36bc0524d77a06bf715c0a5c78c25cdc1d9.png " \text{CER} = \frac{\text{number of errors}}{\text{reference text length in characters}} ")
 
 Both metrics range from 0 to 1, where 0 is the best score.
 
